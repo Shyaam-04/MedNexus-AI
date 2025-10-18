@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Secret Keys
+.env
+
+# Local LLM Model
+# (In case you ever move your .gguf file inside the project)
+*.gguf
+
+# Vector Store (if we were using a local one)
+vectorstores/

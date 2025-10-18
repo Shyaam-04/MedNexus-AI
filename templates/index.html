@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <img src="/static/medical_icon.png" alt="Medical Icon" class="header-icon" onerror="this.style.display='none'">
+            <h2>MediBot AI</h2>
+            <p>Medical Assistant - Made By Jeeva</p>
+        </div>
+        <div class="chat-messages" id="chat-messages">
+            <div class="message bot">
+                Hi! I'm MediBot. I provide information from trusted medical documents. How can I assist you today?
+            </div>
+        </div>
+        <div class="chat-input-area">
+            <input type="text" id="user-input" placeholder="Ask a question..." autocomplete="off">
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+    <script src="/static/app.js"></script>
+</body>
+</html>
