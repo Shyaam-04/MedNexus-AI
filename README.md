@@ -6,7 +6,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** to prevent the AI fro
 
 ## Demo
 
-**(TODO: Add your screenshots here! Take a picture of your cool dark-mode UI and replace this section. A GIF is even better!)**
+
 
 ![Screen Shot](image.png)
 
