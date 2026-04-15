@@ -1,6 +1,6 @@
-# MediBot: A Private AI Medical Chatbot 
+# MedNexus AI: A Private AI Medical Chatbot 
 
-MediBot is a 100% private and secure medical chatbot. It uses a locally-hosted Llama 2 model to answer questions **only** based on a set of trusted medical documents.
+MedNexus AI is a 100% private and secure medical chatbot. It uses a locally-hosted Llama 2 model to answer questions **only** based on a set of trusted medical documents.
 
 This project uses **Retrieval-Augmented Generation (RAG)** to prevent the AI from "hallucinating" or providing dangerous, non-factual medical advice. The AI is forced to find the answer in your documents and then summarize it.
 
@@ -8,7 +8,7 @@ This project uses **Retrieval-Augmented Generation (RAG)** to prevent the AI fro
 
 
 
-![Screen Shot](image.png)
+![Screen Shot](https://github.com/Shyaam-04/MedNexus-AI/blob/2179763a9e7deb1c50578d1128feda4d3b8781ee/image.png)
 
 
 ##  Key Features
